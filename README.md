@@ -16,4 +16,4 @@
 
 ![WaffleStructure](render/waffle_structure.png)
 
-![WaffleStructure](render/waffle_structure1.png)
+![WaffleStructure](render/waffle_structure_1.png)
