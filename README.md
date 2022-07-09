@@ -19,3 +19,5 @@
 ![WaffleStructure](render/waffle_structure_1.png)
 
 ![CONCERT](render/concert.png)
+
+![CLOUD](render/cloud.png)
