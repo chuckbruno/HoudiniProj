@@ -21,3 +21,7 @@
 ![CONCERT](render/concert.png)
 
 ![CLOUD](render/cloud.png)
+
+![DETROIT_AGATE](render/detroit_agate.png)
+
+![WIREFRAME_MODEL](render/wireframe_model.png)
