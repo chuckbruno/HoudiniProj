@@ -25,3 +25,4 @@
 ![DETROIT_AGATE](render/detroit_agate.png)
 
 ![WIREFRAME_MODEL](render/wireframe_model.png)
+
