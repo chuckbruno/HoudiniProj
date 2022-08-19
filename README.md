@@ -27,3 +27,5 @@
 ![WIREFRAME_MODEL](render/wireframe_model.png)
 
 ![METAL_SCULPTURE](render/metal_sculpture.png)
+
+![SHALLOW_WATER_SOLVER](render/shallow_water_solver.gif)
