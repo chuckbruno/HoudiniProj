@@ -29,3 +29,5 @@
 ![METAL_SCULPTURE](render/metal_sculpture.png)
 
 ![SHALLOW_WATER_SOLVER](render/shallow_water_solver.gif)
+
+![GROWTH_ANIM](render/growth_anim.gif)
